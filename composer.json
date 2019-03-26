@@ -1,6 +1,6 @@
 {
     "name": "jigius/core-media-chunk",
-    "description": "Things related to data producing for various medias",
+    "description": "Various interfaces related to data producing for various medias",
     "type": "library",
     "license": "MIT",
     "authors": [
