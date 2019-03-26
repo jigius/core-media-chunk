@@ -1,0 +1,21 @@
+{
+    "name": "jigius/core-media-chunk",
+    "description": "Things related to data producing for various medias",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jigius",
+            "email": "jigius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload" : {
+        "psr-4": {
+            "Core\\Media\\Chunk\\": "src/"
+        }
+    }
+}
