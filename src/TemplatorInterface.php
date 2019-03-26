@@ -1,5 +1,5 @@
 <?php
-namespace Core\Media\Templator;
+namespace Core\Media\Chunk;
 
 interface TemplatorInterface
 {
